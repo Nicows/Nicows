@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @Nicows
-- 👀 I’m currently interested in game developpement
-- 🌱 I’m currently learning C#
-- 📫 How to reach me : contact@nicolaskohler.com
+- Hi, I’m @Nicows
+- I’m currently interested in game developpement
+- I’m currently learning C# in Unity and 3D modeling in blender
+- How to reach me : contact@nicolaskohler.com
+- Website : nicolaskohler.com
