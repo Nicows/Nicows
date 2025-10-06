@@ -1,5 +1,3 @@
 - Hi, I’m @Nicows
 - I’m currently interested in game developpement
 - I’m currently learning C# in Unity
-- How to reach me : contact@nicolaskohler.com
-- Website : nicolaskohler.com
